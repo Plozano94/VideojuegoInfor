@@ -1,7 +1,7 @@
 ﻿#include <stdlib.h>
+#include <time.h>
+#include <math.h>
 #include "glut.h"
-#include "time.h"
-#include "math.h"
 
 void OnDraw(void); 
 void OnTimer(int value); 
