@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\pablo lozano\programación\videojuego cpp\videojuego\videojuego\main.cpp(131): warning C4101: 'm' : variable local sin referencia
+  LINK : no se encontró C:\Users\Pablo Lozano\Programación\Videojuego cpp\Videojuego\Debug\Videojuego.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  Videojuego.vcxproj -> C:\Users\Pablo Lozano\Programación\Videojuego cpp\Videojuego\Debug\Videojuego.exe
